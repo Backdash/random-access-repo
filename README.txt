@@ -9,5 +9,3 @@ realistic roguelike
 Current:
 Modding simulation of final room for DDLC (so learn renpy)
 Finish FreeCodeCamp and networks already
-
-I'll use https://github.com/cvortmann/git-anonymize eventually.
